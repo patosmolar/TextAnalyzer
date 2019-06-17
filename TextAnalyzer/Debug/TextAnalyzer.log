@@ -1,0 +1,5 @@
+﻿  TextAnalyzer.cpp
+c:\users\patos\desktop\textanalyzer\textanalyzer\textanalyzer.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\patos\desktop\textanalyzer\textanalyzer\textanalyzer.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\patos\desktop\textanalyzer\textanalyzer\textanalyzer.cpp(84): warning C4018: '>': signed/unsigned mismatch
+  TextAnalyzer.vcxproj -> C:\Users\patos\Desktop\TextAnalyzer\Debug\TextAnalyzer.exe
